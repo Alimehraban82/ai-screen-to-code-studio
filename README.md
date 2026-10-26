@@ -70,5 +70,5 @@ You can directly download the portable Windows standalone version without needin
 
 Developed with passion by **Ali Mehraban**.
 
-- **Telegram:** [@Ali_Mehraban]([https://t.me/Ali_Mehraban](https://t.me/alimehraban2237))
+- **Telegram:** []@alimehraban2237https://t.me/alimehraban2237))
 - **GitHub:** [Your GitHub Profile Link]
